@@ -1,5 +1,5 @@
 # Powershell Hash Script
- - The goal of this is to create a script that can analyze multiple hashes of multiple files and look for known malicious signatures.
+The goal of this is to create a script that can analyze multiple hashes of multiple files and look for known malicious signatures.
 
 ## Checking Blank Directory
 We first want to check our directories, to make sure it is blank before we start.
